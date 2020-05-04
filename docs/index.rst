@@ -8,7 +8,9 @@ Welcome to Web Design and Development - APSSDC's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   
+   introduction to REACT
 
 
 
